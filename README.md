@@ -8,11 +8,11 @@
 
 ### Campus Fire Outdoor Evacuation Plan Design: *Taking Beijing 101 Middle School as an Example*
 
-**Authors:** Lambert Yuxiang Chen 陈禹翔$^1$, Blake Bo Peng 彭博$^1$
+**Authors:** Lambert Yuxiang Chen 陈禹翔 $^1$, Blake Bo Peng 彭博 $^1$
 
-**Directors:** Sarah Hongjing Shi 史红静$^1$ @AP Calculus BC, Jessica Jingfei Hou 侯静菲$^1$ @AP Chemistry
+**Directors:** Sarah Hongjing Shi 史红静 $^1$ @AP Calculus BC, Jessica Jingfei Hou 侯静菲 $^1$ @AP Chemistry
 
-$^1$ Beijing 101 High School International Department.
+&nbsp;&nbsp;&nbsp;&nbsp; $^1$ Beijing 101 High School International Department.
 
 **Subjects:** AP Calculus BC, AP Chemistry, Geography, Computer Science and Engineering
 
@@ -22,6 +22,20 @@ Campus fire evacuation plans usually focus on leaving buildings as quickly as po
 
 **Keywords:** Campus fire evacuation; Hazardous gas diffusion; Wind-driven advection-diffusion; FED exposure; GIS road network; Route optimization.
 
+## Repository Description
 
-## Repositories Description
+```text
+./
+|-- Research Proposal_CH&EN.pdf   # Research proposal slides
+|-- Midterm - stage 1.pdf         # Midterm 1st report slides
+|-- Midterm - stage 2.pdf         # Midterm 2nd report slides
+|-- Essay.pdf                     # Final essay content
+|-- Essay_Full_length.pdf         # Final essay with full length
+|-- Poster.pdf                    # Final poster
+|-- logo_black.png                # logo of Beijing 101 School
+`-- RAEDME.md                     # This markdown document
+```
 
+## Simulation Program
+
+This project contain an simulation program, which can be obtain from [cyx728/Campus-Gas-Diffusion-Studio.Simulation-Program-qt](https://github.com/cyx728/Campus-Gas-Diffusion-Studio.Simulation-Program-qt) on GitHub.
