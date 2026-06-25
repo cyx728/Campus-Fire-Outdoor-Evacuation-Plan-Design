@@ -8,11 +8,11 @@
 
 ### Campus Fire Outdoor Evacuation Plan Design: *Taking Beijing 101 Middle School as an Example*
 
-**Authors:** Lambert Yuxiang Chen 陈禹翔 $^1$, Blake Bo Peng 彭博 $^1$
+**Authors:** Lambert Yuxiang Chen 陈禹翔¹, Blake Bo Peng 彭博¹
 
-**Directors:** Sarah Hongjing Shi 史红静 $^1$ @AP Calculus BC, Jessica Jingfei Hou 侯静菲 $^1$ @AP Chemistry
+**Directors:** Sarah Hongjing Shi 史红静¹ @AP Calculus BC, Jessica Jingfei Hou 侯静菲¹ @AP Chemistry
 
-&nbsp;&nbsp;&nbsp;&nbsp; $^1$ Beijing 101 High School International Department.
+&nbsp;&nbsp;&nbsp;&nbsp; ¹ Beijing 101 High School International Department.
 
 **Subjects:** AP Calculus BC, AP Chemistry, Geography, Computer Science and Engineering
 
