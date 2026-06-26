@@ -33,6 +33,7 @@ Campus fire evacuation plans usually focus on leaving buildings as quickly as po
 |-- Essay_Full_length.pdf         # Final essay with full length
 |-- Poster.pdf                    # Final poster
 |-- Poster.png                    # Final poster
+|-- Poster - v2.pdf               # Final poster, 6.26 Version
 |-- logo_black.png                # logo of Beijing 101 School
 `-- RAEDME.md                     # This markdown document
 ```
