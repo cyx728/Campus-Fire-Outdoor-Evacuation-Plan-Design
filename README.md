@@ -10,7 +10,7 @@
 
 **Authors:** Lambert Yuxiang Chen 陈禹翔¹, Blake Bo Peng 彭博¹
 
-**Directors:** Sarah Hongjing Shi 史红静¹ @AP Calculus BC, Jessica Jingfei Hou 侯静菲¹ @AP Chemistry
+**Directors:** Sarah Hongjing Shi 史红静¹ @AP Calculus BC, Jessica Jingfei Hou 侯静菲¹ @AP Chemistry, Yutong Zhang 张雨桐¹
 
 &nbsp;&nbsp;&nbsp;&nbsp; ¹ Beijing 101 High School International Department.
 
@@ -34,6 +34,7 @@ Campus fire evacuation plans usually focus on leaving buildings as quickly as po
 |-- Poster.pdf                    # Final poster
 |-- Poster.png                    # Final poster
 |-- Poster - v2.pdf               # Final poster, 6.26 Version
+|-- poster-ICBS.pdf               # Poster for ICBS High School Exhibition
 |-- logo_black.png                # logo of Beijing 101 School
 `-- RAEDME.md                     # This markdown document
 ```
