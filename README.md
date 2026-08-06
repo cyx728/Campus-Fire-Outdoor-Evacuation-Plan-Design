@@ -34,7 +34,7 @@ Campus fire evacuation plans usually focus on leaving buildings as quickly as po
 |-- Poster.pdf                    # Final poster
 |-- Poster.png                    # Final poster
 |-- Poster - v2.pdf               # Final poster, 6.26 Version
-|-- poster-ICBS.pdf               # Poster for ICBS High School Exhibition
+|-- Poster - ICBS.pdf               # Poster for ICBS High School Exhibition
 |-- logo_black.png                # logo of Beijing 101 School
 `-- RAEDME.md                     # This markdown document
 ```
